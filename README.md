@@ -4,9 +4,9 @@
 
 ### I'm a Husband, Father, Systems Engineer, DBA, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
 
-- :heart: I love with PowerShell and SQL Servers
-- :seedling: I’m currently learning Terraform and YAML (not there yet )
-- :thought_balloon: 2021 Goals: Contribute more to Open Source projects
+- I'm in :heart: with PowerShell and SQL Servers
+- I’m currently learning :seedling: Terraform and YAML (not there yet :hourglass_flowing_sand:)
+- :dart: 2021 Goals : Contribute more to Open Source projects
 
 ---
 
@@ -18,15 +18,12 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
 
----
 
 [twitter]: https://twitter.com/PsJimKG
 [linkedin]: https://linkedin.com/in/jimkg/
