@@ -1,6 +1,5 @@
-## Hi there, I'm Jim - aka [jimitkg][website] 👋
+## Hi there, I'm Jim :wave:
 
----
 
 ### I'm a Husband, Father, Systems Engineer, DBA, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
 
