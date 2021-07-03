@@ -3,7 +3,7 @@
 
 #### I'm a Husband, Father, Systems Engineer, DBA, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
 
-- I'm in :heart: with PowerShell and SQL Servers
+- I :heart: with PowerShell and SQL Servers
 - I’m currently learning :seedling: Terraform and YAML (not there yet :hourglass_flowing_sand:)
 - :dart: 2021 Goals : Contribute more to Open Source projects
 
