@@ -28,25 +28,5 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/jimitkg/portfolio-sass/issues/1) in [jimitkg/portfolio-sass](https://github.com/jimitkg/portfolio-sass)
-2. 🎉 Merged PR [#1](https://github.com/jimitkg/portfolio-sass/pull/1) in [jimitkg/portfolio-sass](https://github.com/jimitkg/portfolio-sass)
-3. 🗣 Commented on [#10](https://github.com/jimitkg/jimitkg-vscode-theme/issues/10) in [jimitkg/jimitkg-vscode-theme](https://github.com/jimitkg/jimitkg-vscode-theme)
-4. 🗣 Commented on [#11](https://github.com/jimitkg/jimitkg-vscode-theme/issues/11) in [jimitkg/jimitkg-vscode-theme](https://github.com/jimitkg/jimitkg-vscode-theme)
-5. ❌ Closed PR [#1](https://github.com/jimitkg/spotify-now-playing/pull/1) in [jimitkg/spotify-now-playing](https://github.com/jimitkg/spotify-now-playing)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jimitkg's GitHub Stats" src="https://github-readme-stats.jimitkg.vercel.app/api?username=jimitkg&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/PsJimKG
 [linkedin]: https://linkedin.com/in/jimkg/
