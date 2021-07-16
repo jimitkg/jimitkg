@@ -1,7 +1,7 @@
 ## Hi there, I'm Jim :wave:
 
 
-#### I'm a Husband, Father, Systems Engineer, DBA, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
+#### I'm a Husband, Father, Systems Engineer, Database Engineer, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
 
 - I :heart: PowerShell and SQL Servers
 - I’m currently learning :seedling: Terraform and YAML (not there yet :hourglass_flowing_sand:)
