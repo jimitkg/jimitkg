@@ -4,7 +4,7 @@
 #### I'm a Husband, Father, Systems Engineer, Database Engineer, Automation lover, Cloud enthusiast and a perpetual student of all things IT!!
 
 - I :heart: PowerShell and SQL Servers
-- I’m currently learning :seedling: Terraform and YAML (not there yet :hourglass_flowing_sand:)
+- I’m currently learning :seedling: Google Cloud Platform (not there yet :hourglass_flowing_sand:)
 - :dart: 2021 Goals : Contribute more to Open Source projects
 
 ---
