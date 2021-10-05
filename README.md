@@ -1,11 +1,11 @@
 ## Hi there, I'm Jim :wave:
 
 
-#### I'm a Husband, Father, Systems Engineer, Database Engineer, and a perpetual student of all things IT!!
+#### I'm a Systems Engineer, Database Engineer, and a perpetual student of all things IT!!
 
 - I :heart: Automation and Cloud
 - I’m currently learning :seedling: Google Cloud Platform :hourglass_flowing_sand:
-- :dart: 2021 Goals : Contribute more to Open Source projects and switch to template based deployments from image based where ever possible
+- :dart: 2021 Goals : Contribute more to Open Source projects and automate pragmatically
 
 ---
 
