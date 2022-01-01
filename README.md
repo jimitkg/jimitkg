@@ -5,7 +5,7 @@
 
 - I :heart: Automation and Cloud
 - I’m currently learning :seedling: Google Cloud Platform :hourglass_flowing_sand:
-- :dart: 2021 Goals : Contribute more to open-source projects & automate pragmatically
+- :dart: 2022 Goals : Contribute more to open-source projects & automate pragmatically
 
 ---
 
