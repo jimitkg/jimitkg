@@ -1,6 +1,5 @@
 ## Hi there, I'm Jim :wave:
 
-
 #### I'm a Systems Engineer, Database Engineer, and a perpetual student of all things IT!!
 
 - I :heart: Automation and Cloud
