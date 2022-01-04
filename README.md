@@ -9,7 +9,7 @@
 
 ---
 
-###  Some of the tools, languages & platforms I worked with are: 
+###  Platforms, Tools & Languages
 
 <img align="left" alt="Visual Studio Code" width="26px" src=".\icons\vscode.svg" />
 <img align="left" alt="PowerShell-Core" width="26px" src=".\icons\powershell-core.svg" />
